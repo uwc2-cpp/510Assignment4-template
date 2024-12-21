@@ -2,13 +2,13 @@
 
 #include <algorithm>
 
-//Write a lambda function that makes the following TEST pass:
+//Write a lambda function that makes the following test pass:
 //TEST(lambdaTestProblem, lambdas)
 //{
 //    const auto values = { 2, 4, 6, 8, 10, 12 };
-//	auto sum = 0;
+//	  auto sum = 0;
 //
-//	std::for_each(values.begin(), values.end(), /*define lambda function here*/);
+//	  std::for_each(values.begin(), values.end(), /*define lambda function here*/);
 //
-//	CHECK_EQUAL(42, sum);
+//	  CHECK_EQUAL(42, sum);
 //}

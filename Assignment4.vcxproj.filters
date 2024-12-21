@@ -83,7 +83,4 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="A4Q5_DesignProblem.txt" />
-  </ItemGroup>
 </Project>
